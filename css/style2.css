@@ -1,0 +1,22 @@
+h1
+{
+    background-color: greenyellow;
+
+}
+div{
+    height: 50px;
+    width: 200px;
+    background-color: yellow;
+}
+/* Estilo do Quadro Pricipal*/
+#quadro2 {
+    opacity: 0.6;
+}
+/* Estilo do segundo quadro vai ficar com opacidade 0.4*/
+#quadro3 {
+    opacity: 0.4;
+}
+
+#quadro4 {
+    opacity: 0.2;
+}
