@@ -1,0 +1,9 @@
+#quadro {
+    height: 300px;
+    width: 300px;
+    background-color: darkblue;
+    margin: 50px 'auto';
+    background-image: url("../imagens/sto.jpg");
+    background-size: cover;
+    background-blend-mode: luminosity;
+}   
